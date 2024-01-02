@@ -1,0 +1,7 @@
+"How many pokemon are there?"
+"What is the rarest type of pokemon?"
+"What is the most common type of pokemon?"
+"Which pokemon should I choose for a battle against Dodrio?"
+"Which pokemon fly?"
+"Name all the Fire type pokemon?"
+"What is the most common vowel in names?"
